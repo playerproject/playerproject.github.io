@@ -6,6 +6,7 @@ permalink: /player/
 Cross-platform robot device interface and server.
 
 ## About Player
+<img style="float: right;" src="/assets/img/p2dxelasercam.jpg">
 Player is a network server for robot control.
 Running on your robot, Player provides a clean and simple interface to the robot's sensors and actuators over the IP network.
 Your client program talks to Player over a TCP socket, reading data from sensors, writing commmands to actuators, and configuring devices on the fly.

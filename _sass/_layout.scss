@@ -188,7 +188,8 @@
     font-size: 24px;
 }
 
-
+.post-link-small{
+}
 
 /**
  * Posts
@@ -196,9 +197,7 @@
 .post-header {
     margin-bottom: $spacing-unit;
 }
-
-.post-title {
-    font-size: 42px;
+.post-title { font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
 
