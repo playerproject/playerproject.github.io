@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Authors
-permalink: /authors/
+title: Contributors
+permalink: /contributors/
 ---
 
 A list of non-developers who have made substantial contributions to the Player Project. If we have accidentally left you out, please file an issue.
