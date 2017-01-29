@@ -5,6 +5,10 @@ permalink: /player/
 ---
 Cross-platform robot device interface and server.
 
+## Get Player
+
+[[Releases]](https://github.com/playerproject/player/releases)  [[Source]](https://github.com/playerproject/player) [[Issue Tracker]](https://github.com/playerproject/player/issues) [[Wiki]](https://github.com/playerproject/player/wiki)
+
 ## About Player
 <img style="float: right;" src="/assets/img/p2dxelasercam.jpg">
 Player is a network server for robot control.

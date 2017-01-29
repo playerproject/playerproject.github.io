@@ -5,6 +5,9 @@ permalink: /stage/
 ---
 2.5D multiple robot simulator.
 
+## Get Stage
+[[Releases]](https://github.com/rtv/stage/releases)  [[Source]](https://github.com/rtv/stage) [[Issue Tracker]](https://github.com/rtv/stage/issues) [[Wiki]](https://github.com/rtv/stage/wiki)
+
 ## About Stage
 <img style="float: right;" src="/assets/img/pioneer.png">
 Stage simulates a population of mobile robots, sensors and objects in a two-dimensional bitmapped environment.
